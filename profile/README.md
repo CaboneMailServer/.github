@@ -4,8 +4,7 @@ I know it's another mail server distribution... mailcow...mailu...
 But not reponds to my need... principaly to work in full container mod without adherence to the host... to be abel to work also on kubernetes...
 
 
-<img width="740" height="422" alt="Carbone-Mail-Server" src="https://github.com/user-attachments/assets/cce8e750-6e5e-4f17-8c89-808278d37d0e" />
-
+<img width="740" height="422" alt="Carbone-Mail-Server" src="https://github.com/user-attachments/assets/f979f6f6-5c93-47d7-82be-f64eaa1fae91" />
 
 Features roadmap
 
