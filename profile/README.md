@@ -21,4 +21,4 @@ Features roadmap
 - Admin Web tool to manage the user in the database (and protected with OpenIdc too)
 - rspamd for antispam part
 - Dkim, SPF and DMarc support
-- Dmarc report dashboard
+- Dmarc report dashboard (grafana dashboard with clickhouse as backend)
