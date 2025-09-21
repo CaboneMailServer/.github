@@ -11,7 +11,8 @@ But not reponds to my need... principaly to work in full container mod without a
 
 Features roadmap
 - [ ] All in container (container engine agnostique, all rootless, no special cap needed, no host dependence)
-- [ ] SSO Evreywhere : OpenIdc/xoauth2
+- [ ] SSO Evrywhere : OpenIdc/xoauth2
+- [ ] MFA where possible
 - [ ] All user stored in database (mysql or postgresql, i've not chosent for the moment) for dovecot/postfix/sogo/rspamd
 - [ ] IMAP with dovecot
 - [ ] Webmail with Sogo and activated Active Sync for the mobile sync
