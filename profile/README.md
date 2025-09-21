@@ -1,6 +1,8 @@
-This is my project of mail server.
+This is my mail server project.
 
-I know it's another mail server distribution... mailcow...mailu...
+I know you're going to tell me yet another open source mail server distribution... your right !
+
+I searched another mail server distribution... and i've tested some like mailcow...mailu...iredmail...kopano... openxchange...
 But not reponds to my need... principaly to work in full container mod without adherence to the host... to be abel to work also on kubernetes...
 
 
@@ -8,7 +10,7 @@ But not reponds to my need... principaly to work in full container mod without a
 
 
 Features roadmap
-- all in container (container engine agnostique, all rootless, no special cap needed, no host dependence)
+- All in container (container engine agnostique, all rootless, no special cap needed, no host dependence)
 - IMAP with dovecot
 - Webmail with Sogo
 - Postfix for all mail traffic and routing
@@ -22,3 +24,4 @@ Features roadmap
 - rspamd for antispam part
 - Dkim, SPF and DMarc support
 - Dmarc report dashboard (grafana dashboard with clickhouse as backend)
+- Regulards Check/alarms : mx, dkim, spf, dmarc per domain.
