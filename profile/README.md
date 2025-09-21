@@ -8,7 +8,7 @@ But not reponds to my need... principaly to work in full container mod without a
 
 
 Features roadmap
-
+- all in container (container engine agnostique, all rootless, no special cap needed, no host dependence)
 - IMAP with dovecot
 - Webmail with Sogo
 - Postfix for all mail traffic and routing
