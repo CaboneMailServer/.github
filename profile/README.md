@@ -3,6 +3,8 @@ This is my project of mail server.
 I know it's another mail server distribution... mailcow...mailu...
 But not reponds to my need... principaly to work in full container mod without adherence to the host... to be abel to work also on kubernetes...
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/313753e7-87bd-4370-a66b-402190cb0f08" />
+
 Features roadmap
 - IMAP with dovecot
 - Webmail with Sogo
