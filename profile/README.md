@@ -24,7 +24,8 @@ Features roadmap :
 - [ ] Antispam support
 - [ ] Mail statistics and Dmarc report dashboard 
 - [ ] Regulards Check/alarms : mx, dkim, spf, dmarc per domain.
-- [ ] Client autoconfiguration support for auto-discovery protocoles (mozilla autoconfig, microsoft autodiscover, apple mobileconfig) 
+- [ ] Client autoconfiguration support for auto-discovery protocoles (mozilla autoconfig, microsoft autodiscover, apple mobileconfig)
+- [ ] libregraph
 
 Componants lists :
 - [ ] Dovecot for IMAP and Sieve filter
